@@ -1,6 +1,5 @@
-# Frontend Mentor - Intro section with dropdown navigation solution
+# Landing Page Angular
 
-This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -28,8 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/AminduSasanka/angular-landing-page](https://github.com/AminduSasanka/angular-landing-page)
-- Live Site URL: [https://angular-landing-page.netlify.app/](https://angular-landing-page.netlify.app/)
+- Solution URL: (https://github.com/RenatoGarciaa)
 
 ## My process
 
@@ -44,6 +42,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Amindu Liyanaratne](https://amindu-liyanaratne.web.app/)
-- Frontend Mentor - [@AminduSasanka](https://www.frontendmentor.io/profile/AminduSasanka)
-- Github - [@AminduSasanka](https://github.com/AminduSasanka)
+- Github - [@AminduSasanka](https://github.com/RenatoGarciaa)
